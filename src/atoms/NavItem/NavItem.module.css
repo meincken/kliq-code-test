@@ -1,0 +1,11 @@
+.list_item {
+  @apply flex items-center p-2
+}
+
+.list_item span {
+  padding-left: 15px;
+}
+
+.icon {
+  @apply w-5 h-5
+}

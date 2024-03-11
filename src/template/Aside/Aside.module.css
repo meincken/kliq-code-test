@@ -1,0 +1,11 @@
+.aside {
+  background-color: #E7E7E7;
+  width: 20vw;
+  max-width: 336px;
+  height: 100vh;
+  padding: 20px;
+}
+
+.aside hr {
+  @apply h-px my-8 bg-black border-0
+}
