@@ -22,7 +22,7 @@ export const TableRow = ({
   return (
     <tr>
       <td className="flex items-center py-4 px-1">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none"><path stroke="#000" stroke-linecap="round" stroke-linejoin="round" strokeWidth="1.333" d="M4.667 10 8 13.333 11.333 10M4.667 6 8 2.667 11.333 6"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none"><path stroke="#000" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.333" d="M4.667 10 8 13.333 11.333 10M4.667 6 8 2.667 11.333 6"/></svg>
 
         {promoName}
       </td>

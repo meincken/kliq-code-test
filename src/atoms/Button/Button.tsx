@@ -5,7 +5,8 @@ export const button = tv({
   variants: {
     color: {
       primary: 'bg-[#1C3838] text-white',
-      secondary: 'bg-transparent text-black border-black border-2'
+      secondary: 'bg-transparent text-black border-black border-2',
+      icon: 'border-[#9FA0A0] border-[1px] rounded-full bg-[#F6F6F6]'
     }
   }
 });
