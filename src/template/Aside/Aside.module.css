@@ -1,8 +1,7 @@
 .aside {
   background-color: #E7E7E7;
-  width: 20vw;
   max-width: 336px;
-  height: 100vh;
+  height: 100%;
   padding: 20px;
 }
 

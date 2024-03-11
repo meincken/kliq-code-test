@@ -3,9 +3,11 @@ import { Button, Breadrumb } from '@/atoms/'
 export const Promotions = () => {
   return (
     <div className='w-full p-10'>
-      <Button title={`Web app`} />
-      <Button title={`Application Validation`} />
-      <h1>Promotions</h1>
+      <div className='flex'>
+        <Button title={`Web app`} />
+        <Button title={`Application Validation`} />
+      </div>
+      <h1 className='font-bold text-xl'>Promotions</h1>
       <Breadrumb />
       <div className="bg-white w-full">
 

@@ -1,3 +1,4 @@
-.primary-btn {
-  @apply flex
+.btn {
+  background-color: #1C3838;
+  @apply flex rounded-lg py-2 px-4 text-white text-sm mr-5
 }

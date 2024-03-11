@@ -2,7 +2,7 @@ import styles from './Button.module.css'
 
 export const Button = ({ title }: {title: string}) => {
   return (
-    <button className="rounded-lg">
+    <button className={styles.btn}>
       {title}
     </button>
   )
