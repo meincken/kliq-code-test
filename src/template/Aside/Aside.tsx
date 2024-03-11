@@ -3,7 +3,7 @@ import { Search } from '@/atoms/'
 
 export const Aside = () => {
   return (
-    <aside className={`bg-[#e7e7e7] p-5 h-screen fixed max-w-[336px]`}>
+    <aside className={`bg-[#e7e7e7] max-w-[336px]`}>
       <div className='flex items-center justify-between'>
         <Logo />
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -14,7 +14,10 @@ export const Aside = () => {
       <Search />
       <Navigation />
       <hr className='h-px my-8 bg-black border-0' />
-      <UserNav />
+      <div>
+        <div className='bg-white w-full h-56 rounded-lg'></div>
+        <UserNav />
+      </div>
     </aside>
   )
 }
