@@ -5,5 +5,5 @@
 }
 
 .breadcrumb {
-  @apply text-xs flex
+  @apply text-xs flex mb-4
 }

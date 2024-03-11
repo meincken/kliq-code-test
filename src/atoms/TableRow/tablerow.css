@@ -1,0 +1,16 @@
+.status,
+.tag {
+  @apply rounded-lg px-3 py-1
+}
+
+.tag.mealplan {
+  @apply bg-[#FF9F88]
+}
+
+.tag.course {
+  @apply bg-[#9CF0FF]
+}
+
+.status.active {
+  @apply bg-[#DEFE9C]
+}
