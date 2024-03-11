@@ -3,10 +3,12 @@ import { Icons } from '@/atoms'
 
 export default function Home() {
   return (
-    <main className='flex'>
-      <Aside />
-      <Promotions />
+    <>
+      <main className='flex'>
+        <Aside />
+        <Promotions />
+      </main>
       <Icons />
-    </main>
+    </>
   );
 }

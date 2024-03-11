@@ -1,5 +1,5 @@
 .search {
-  @apply py-3
+  @apply py-3 mx-4
 }
 
 .input_group {

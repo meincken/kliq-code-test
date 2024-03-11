@@ -3,7 +3,7 @@ import { Table } from '@/components'
 
 export const Promotions = () => {
   return (
-    <div className='w-full p-10 ml-[336px]'>
+    <div className='w-full p-10'>
       <div className='flex mb-10'>
         <Button color={`primary`}>
           Web app
