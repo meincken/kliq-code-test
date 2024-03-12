@@ -3,9 +3,6 @@ import { TableHead, TableRow } from "@/atoms"
 import data from '@/data/promotions.json'
 
 export function Table() {
-
-  console.log(data[0].name);
-
   return (
     <table className="table-auto rounded-t-lg w-full">
       <TableHead
