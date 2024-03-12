@@ -1,4 +1,4 @@
 export * from './Logo'
 export * from './Navigation'
 export * from './UserNav'
-export * from './Table'
+export * from './ButtonGroup'

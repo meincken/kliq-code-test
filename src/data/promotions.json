@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Subscription Name",
+    "discountType": "Premium",
+    "discountOff": "300-£GDP",
+    "endDate": "dd/mm/yy",
+    "product": "Meal plan",
+    "promoStatus": "active"
+  },
+  {
+    "name": "Subscription Name",
+    "discountType": "Premium",
+    "discountOff": "40%",
+    "endDate": "dd/mm/yy",
+    "product": "Course",
+    "promoStatus": "active"
+  },
+  {
+    "name": "Subscription Name",
+    "discountType": "Premium",
+    "discountOff": "300-€EUR",
+    "endDate": "dd/mm/yy",
+    "product": "Meal plan",
+    "promoStatus": "active"
+  },
+  {
+    "name": "Subscription Name",
+    "discountType": "Premium",
+    "discountOff": "300-$USD",
+    "endDate": "dd/mm/yy",
+    "product": "Meal plan",
+    "promoStatus": "active"
+  },
+  {
+    "name": "Subscription Name",
+    "discountType": "Premium",
+    "discountOff": "40%",
+    "endDate": "dd/mm/yy",
+    "product": "Meal plan",
+    "promoStatus": "active"
+  }
+]
