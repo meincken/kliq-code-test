@@ -14,10 +14,8 @@ export const Aside = () => {
       <Search />
       <Navigation />
       <hr />
-      <div>
-        <div className='bg-white h-56 rounded-lg mx-4'></div>
-        <UserNav />
-      </div>
+      <div className='bg-white h-56 rounded-lg mx-4'></div>
+      <UserNav />
     </aside>
   )
 }
